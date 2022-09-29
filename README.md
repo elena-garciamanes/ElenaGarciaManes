@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 thanks for visiting my GitHub!🌻
 
-<!--
-**ElenaGarciaManes/ElenaGarciaManes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Elena García Mañes (she/her)
 
-Here are some ideas to get you started:
+🎓 I'm a recent graduate from a quantitative-intensive master program. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👩‍💻 I can code in Python, R, SQL.
+
+🚀 I’m currently working on personal projects to expand my skills in Python, R, SQL and Tableau.
+
+💼 I used to work as a business and public affairs consultant (automotive industry, tech, insurance, pharma, agribusiness and FMCG) for over 3 years, but I enjoy more working as a data analyst 📊📈😄 
+
+
