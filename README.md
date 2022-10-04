@@ -2,7 +2,7 @@
 
 I'm Elena García Mañes (she/her)
 
-- 🎓 I'm a recent graduate from a **quantitative-intensive master** program. 
+- 🎓 I'm a recent graduate from the Hertie School in Berlin (a **quantitative-intensive master** program). 
 
 - 👩‍💻 I can code in **Python, R, SQL**.
 
