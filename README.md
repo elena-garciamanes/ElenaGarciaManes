@@ -2,9 +2,11 @@
 
 I'm Elena García Mañes (she/her)
 
-- 🎓 I'm a recent graduate from the Hertie School in Berlin (a **quantitative-intensive master** program). 
+- 🚘 I currently work in **Data Automation & Business Intelligence** at the largest used cars **e-commerce platform** in Europe (Auto1 Group).
 
-- 👩‍💻 I can code in **Python, R, SQL**.
+- 🎓 I'm a graduate from the Hertie School in Berlin (a **quantitative-intensive master** program). 
+
+- 👩‍💻 I possess advanced technical skills in **Python, R, SQL, and AppsScript (JavaScript)**.
 
 - 🚀 I’m currently working on personal projects to expand my skills in **Python, R, SQL and Tableau**.
 
