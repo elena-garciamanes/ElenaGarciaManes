@@ -6,6 +6,8 @@ I'm Elena García Mañes (she/her)
 
 - 🎓 I'm a graduate from the Hertie School in Berlin (a **quantitative-intensive master** program). 
 
+- 💡 I have strong **statistics knowledge** and experience with several models and methodologies to draw **causal inference** (GLM, DID, RCT, etc).
+
 - 👩‍💻 I possess advanced technical skills in **Python, R, SQL, and AppsScript (JavaScript)**.
 
 - 🚀 I’m currently working on personal projects to expand my skills in **Python, R, SQL and Tableau**.
